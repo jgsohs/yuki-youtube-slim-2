@@ -1,6 +1,7 @@
 services:
   - type: web
-    name: yuki-tangolevel
+    name: now.ueda
+  
     env: python
     region: Oregon
     plan: free
